@@ -1,2 +1,2 @@
 # infovis
-BIG DATA - Visualización de la información
+PORTADA - Visualización de la información
