@@ -1,1 +1,3 @@
-Pagina en desarrollo.
+infovis BIG DATA - Visualización de la información
+
+Indice de la Semana 3
